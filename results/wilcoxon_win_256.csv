@@ -1,0 +1,7 @@
+Task,Window Size,First Model,Second Model,p_value,Statistically significant difference?
+Enhancers,256,FFNN_regression_model,CNN_regression_model,0.00390625,Yes
+Enhancers,256,FFNN_regression_model,MMNN_boosted_regression_model,0.65234375,No
+Enhancers,256,MMNN_boosted_regression_model,CNN_regression_model,0.00390625,Yes
+Promoters,256,FFNN_regression_model,CNN_regression_model,0.00390625,Yes
+Promoters,256,FFNN_regression_model,MMNN_boosted_regression_model,0.12890625,No
+Promoters,256,MMNN_boosted_regression_model,CNN_regression_model,0.00390625,Yes
